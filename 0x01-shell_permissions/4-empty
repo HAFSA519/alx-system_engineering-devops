@@ -1,0 +1,4 @@
+#!/bin/bash
+touch hello
+sh: 1: :wq: not found
+
